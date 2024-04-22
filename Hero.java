@@ -17,7 +17,7 @@ public class Hero extends Actor
         }// Add your action code here.
         else
         {
-            setLocation(300, 300);
+            setLocation(100, 300);
         }
     }
 }
